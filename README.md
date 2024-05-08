@@ -1,1 +1,1 @@
-# Scripts Automation
+scripts de automação desenvolvidos em shell script para facilitar diversas tarefas em projetos de software. Desde backups automatizados até compilação de código e atualização de dependências, este repositório oferece uma variedade de soluções prontas para otimizar processos e aumentar a eficiência no desenvolvimento e gerenciamento de projetos.
